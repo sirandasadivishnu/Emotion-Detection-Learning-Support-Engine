@@ -1,0 +1,53 @@
+# ==========================
+# Streamlit
+# ==========================
+streamlit
+streamlit-autorefresh
+
+# ==========================
+# Gemini API
+# ==========================
+google-generativeai
+python-dotenv
+
+# ==========================
+# Data Processing
+# ==========================
+pandas
+numpy
+scikit-learn
+
+# ==========================
+# Deep Learning
+# ==========================
+tensorflow
+
+# ==========================
+# BERT / Hugging Face
+# ==========================
+torch
+transformers
+datasets
+accelerate
+sentencepiece
+safetensors
+
+# ==========================
+# Visualization
+# ==========================
+matplotlib
+plotly
+
+# ==========================
+# Document Processing
+# ==========================
+pypdf
+python-docx
+python-pptx
+
+# ==========================
+# Utilities
+# ==========================
+tqdm
+joblib
+pickle-mixin
